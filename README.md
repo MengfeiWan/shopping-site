@@ -1,3 +1,6 @@
+最终效果：
+![img](https://github.com/MengfeiWan/shopping-site/blob/master/6.gif)
+===
 开发环境
 ```
 # install dependencies
